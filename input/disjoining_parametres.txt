@@ -1,0 +1,19 @@
+=========VDW============
+ham_cte1       1.30e-20
+ham_cte2       3.10E-79
+born_length    2e-11
+=========EDL============
+k_b            1.38e-23
+Temp           300
+epsilon0       8.85e-12
+epsilon        78.54
+electron_charge       1.60e-19
+avagadro_number       6.02214076e+023
+nb             3.66
+zeta_1         -5e-3
+zeta_2         3e-3
+========Hydration=======
+lambda_0       2.00e-10
+w_o            10.00e-02
+
+
